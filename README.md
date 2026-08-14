@@ -82,12 +82,12 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaquinFigueroa5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinFigueroa56&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=JoaquinFigueroa5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoaquinFigueroa5&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaquinFigueroa5&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=JoaquinFigueroa5&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
 
 <br/>
